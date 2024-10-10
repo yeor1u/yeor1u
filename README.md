@@ -37,5 +37,4 @@
 
 # 🔗 Links 
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
-
-- Portfolio site: To be revealed
+[![Portfolio](https://img.icons8.com/ios-filled/50/000000/resume.png)]([https://sites.google.com/view/your-portfolio](https://sites.google.com/view/yeonwoo-kim/%ED%99%88))
