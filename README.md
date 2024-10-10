@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFEBDB&text=Hello,I'm_Yeonwoo!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FDF6E3&text=Hello,I'm_Yeonwoo!&fontSize=50)
 
 
 ### I am a university student studying computer engineering.
@@ -11,9 +11,9 @@
 # 💻 Skills
 
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_%28programming_language%29) 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
