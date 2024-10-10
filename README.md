@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFF1E6&text=Hello,I'm_Yeonwoo!&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFEBDB&text=Hello,I'm_Yeonwoo!&fontSize=45)
 
 
 ### I am a university student studying computer engineering.
