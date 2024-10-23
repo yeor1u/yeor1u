@@ -10,9 +10,9 @@
 
 # 📚 Research Interests
 
-#### - Data Analysis
-#### - Computer Vision
-#### - Healthcare
+### - Data Analysis
+### - Computer Vision
+### - Healthcare
 <br>
 
 <br>
