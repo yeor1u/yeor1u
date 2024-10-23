@@ -6,7 +6,10 @@
 ## I am a university student studying computer engineering.
 ## My journey is all about constantly learning and growing. 🔥
 <br>
+
+<br>
 </div>
+
 
 # 📚 Research Interests
 
