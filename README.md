@@ -3,10 +3,19 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FDF6E3&text=Hello,I'm_Yeonwoo!&fontSize=50)
 
 
-### I am a university student studying computer engineering.
-### My journey is all about constantly learning and growing. 🔥
+## I am a university student studying computer engineering.
+## My journey is all about constantly learning and growing. 🔥
 <br>
 </div>
+
+# 📚 Research Interests
+
+#### - Data Analysis
+#### - Computer Vision
+#### - Healthcare
+<br>
+
+<br>
 
 # 💻 Skills
 
@@ -29,6 +38,8 @@
 <br>
 
 # 📩 Contact
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="42">](mailto:yeonwoo2004@gmail.com)
+&nbsp;&nbsp;&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev)
 ㅤ
 <br>
@@ -37,4 +48,5 @@
 
 # 🔗 Links 
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
+&nbsp;
 [![Portfolio](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://sites.google.com/view/yeonwoo-kim/%ED%99%88)
