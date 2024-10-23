@@ -39,7 +39,7 @@
 
 # 📩 Contact
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="42">](mailto:yeonwoo2004@gmail.com)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev)
 ㅤ
 <br>
@@ -48,5 +48,5 @@
 
 # 🔗 Links 
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://sites.google.com/view/yeonwoo-kim/%ED%99%88)
